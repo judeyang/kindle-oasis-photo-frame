@@ -204,7 +204,7 @@ source/           触屏读取器源码（4560 字节 ARMv7 静态程序，只�
 
 | | 谁 | 干了什么 |
 |---|---|---|
-| 🧑‍🔬 | [半对实验室 halfrightlab](https://github.com/halfrightlab) | 出主意、拿自己的 Kindle 当小白鼠、真机验收 |
+| 🧑‍🔬 | [半对实验室 judeyang](https://github.com/judeyang) | 出主意、拿自己的 Kindle 当小白鼠、真机验收 |
 | 🤖 | [Claude](https://github.com/claude)（Anthropic） | 写代码、写文档、qemu 里模拟测试 |
 | 🤖 | [Codex / ChatGPT](https://github.com/codex)（OpenAI） | 编程助手 |
 | 🤖 | WorkBuddy | 编程助手 |
